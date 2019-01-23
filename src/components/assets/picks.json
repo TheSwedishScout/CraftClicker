@@ -1,0 +1,44 @@
+[
+    {
+      "id": 0,
+      "type": "fist",
+      "durability": 1000000000000000000000000000000000000000000,
+      "damage": 1,
+      "miningLevel":10
+    },
+    {
+      "id": 1,
+      "type": "wooden",
+      "durability": 25,
+      "damage": 2,
+      "miningLevel":10
+    },
+    {
+      "id": 2,
+      "type": "stone",
+      "durability": 100,
+      "damage": 4,
+      "miningLevel":10
+    },
+    {
+      "id": 3,
+      "type": "iron",
+      "durability": 150,
+      "damage": 8,
+      "miningLevel":10
+    },
+    {
+      "id": 4,
+      "type": "fist",
+      "durability": 150,
+      "damage": 1,
+      "miningLevel":10
+    },
+    {
+      "id": 5,
+      "type": "fist",
+      "durability": 150,
+      "damage": 1,
+      "miningLevel":10
+    }
+  ]

@@ -1,0 +1,42 @@
+[
+    {
+      "id": 0,
+      "name": "air",
+      "durability": 1,
+      "damage": 0,
+      "worth": 0,
+      "miningLevel": 99999999999999999999
+    },
+    {
+      "id": 1,
+      "name": "wood",
+      "durability": 5,
+      "damage": 0,
+      "worth": 1,
+      "miningLevel": 0
+    },
+    {
+      "id": 2,
+      "name": "Stone",
+      "durability": 12,
+      "damage": 0,
+      "worth": 1,
+      "miningLevel": 1
+    },
+    {
+      "id": 3,
+      "name": "Cobblestone",
+      "durability": 10,
+      "damage": 0,
+      "worth": 1,
+      "miningLevel": 1
+    },
+    {
+      "id": 4,
+      "name": "Dirt",
+      "durability": 4,
+      "damage": 0,
+      "worth": 1,
+      "miningLevel": 0
+    }
+  ]
