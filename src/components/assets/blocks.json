@@ -20,7 +20,7 @@
       "name": "Stone",
       "durability": 12,
       "damage": 0,
-      "worth": 1,
+      "worth": 3,
       "miningLevel": 1
     },
     {
@@ -28,7 +28,7 @@
       "name": "Cobblestone",
       "durability": 10,
       "damage": 0,
-      "worth": 1,
+      "worth": 2,
       "miningLevel": 1
     },
     {
